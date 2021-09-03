@@ -1,5 +1,8 @@
 
-provider "github" {}
+provider "github" {
+    token = var.github_token
+    owner = var.github_owner
+}
 
 module "github" {
     source = "./github"

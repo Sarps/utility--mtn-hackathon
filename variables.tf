@@ -6,3 +6,10 @@ variable "participants" {
 variable "admins" {
     type = list(string)
 }
+
+variable "github_owner" {
+    default = ""
+}
+variable "github_token" {
+    default = ""
+}
