@@ -16,7 +16,7 @@ participants = [
   "berrydeblaq",
   "majestyjnr",
   "ManuelDCoder",
-  "emmanuelfrimpong07",
+  "Emmanuelfrimpong",
   "Afari318",
   "Eddy-Morgan",
   "Onihani",
@@ -37,7 +37,7 @@ participants = [
   "NanaPokun",
   "Osadiapet",
   "franklinosei",
-  "princeampomah",
+  "Prince-Ampomah",
   "mightytv12",
   "emrade",
   "ProfOJ",
@@ -49,4 +49,6 @@ participants = [
   "saeed-wahab",
   "Seyramize",
   "terewere",
-  "Xybron"]
+  "Xybron",
+  "fennin3"
+]
