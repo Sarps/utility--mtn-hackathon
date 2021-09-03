@@ -2,7 +2,9 @@ github_owner = "MTN-AYOBA-HACK-2021"
 github_token = "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"
 
 admins = [
-  "sarps"
+  "sarps",
+  "theHinneh",
+  "codeReddington"
 ]
 
 participants = [
@@ -50,5 +52,8 @@ participants = [
   "Seyramize",
   "terewere",
   "Xybron",
-  "fennin3"
+  "fennin3",
+  "sualah",
+  "iamnanne",
+  "sarponge2"
 ]

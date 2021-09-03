@@ -17,6 +17,7 @@ resource "github_membership" "members" {
 resource "github_repository" "this" {
     for_each = local.members
     name = "ayoba_${each.value}"
+    visibility = "private"
 }
 
 resource "github_repository_collaborator" "repo_user" {
