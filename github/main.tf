@@ -16,13 +16,13 @@ resource "github_membership" "members" {
 
 resource "github_repository" "this" {
     for_each = local.members
-    name = each.value
+    name = "ayoba_${each.value}"
 }
 
 resource "github_repository_collaborator" "repo_user" {
     depends_on = [github_membership.members, github_repository.this]
     for_each = local.members
-    repository = each.value
+    repository = "ayoba_${each.value}"
     username   = each.value
     permission = "maintain"
 }

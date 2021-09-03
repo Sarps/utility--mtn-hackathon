@@ -1,10 +1,15 @@
 
 variable "participants" {
     type = list(string)
-    default = ["sarponge2", "esarpong51"]
 }
 
 variable "admins" {
     type = list(string)
-    default = ["denzel"]
+}
+
+variable "github_owner" {
+    default = ""
+}
+variable "github_token" {
+    default = ""
 }
