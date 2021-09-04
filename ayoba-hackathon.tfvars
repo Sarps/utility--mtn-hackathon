@@ -55,5 +55,7 @@ participants = [
   "fennin3",
   "sualah",
   "iamnanne",
-  "sarponge2"
+  "sarponge2",
+  "saeed-wahab",
+  "piilugfelix"
 ]
