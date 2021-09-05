@@ -64,5 +64,7 @@ participants = [
   "millewebs",
   "fennin3",
   "IvanKwabena",
-  "brvhprince"
+  "brvhprince",
+  "starlabelgh",
+  "kingsharp21"
 ]
