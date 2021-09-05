@@ -57,5 +57,12 @@ participants = [
   "iamnanne",
   "sarponge2",
   "saeed-wahab",
-  "piilugfelix"
+  "piilugfelix",
+  // "Kingsharpn3",
+  "Dennis-Lord",
+  "CodeitSoft-Tech",
+  "millewebs",
+  "fennin3",
+  "IvanKwabena",
+  "brvhprince"
 ]
